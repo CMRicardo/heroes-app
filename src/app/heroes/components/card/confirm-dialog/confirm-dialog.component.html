@@ -1,0 +1,25 @@
+<h1 mat-dialog-title>¿De verdad quieres borrar esto?</h1>
+<div mat-dialog-content>
+  <p>
+    Este proceso es irreversible, estas a punto de eliminar a
+    <strong>{{ data.superhero }}</strong>
+  </p>
+</div>
+<div mat-dialog-actions>
+  <button
+    mat-button
+    (click)="onNoClick()"
+    cdkFocusInitial
+    color="primary"
+  >
+    No
+  </button>
+  <span class="spacer"></span>
+  <button
+    mat-button
+    (click)="onConfirm()"
+    color="warn"
+  >
+    Borrar
+  </button>
+</div>

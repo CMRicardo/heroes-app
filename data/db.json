@@ -13,7 +13,8 @@
       "publisher": "DC Comics",
       "alter_ego": "Bruce Wayne",
       "first_appearance": "Detective Comics #27",
-      "characters": "Bruce Wayne"
+      "characters": "Bruce Wayne",
+      "alt_img": "https://www.nerdpool.it/wp-content/uploads/2023/01/Batman-131-Open-to-Order-Variant-Fabok-675x1024.jpg"
     },
     {
       "id": "dc-superman",
@@ -54,14 +55,6 @@
       "alter_ego": "Princess Diana",
       "first_appearance": "All Star Comics #8",
       "characters": "Princess Diana"
-    },
-    {
-      "id": "dc-martian",
-      "superhero": "Martian Manhunter",
-      "publisher": "DC Comics",
-      "alter_ego": "J\"onn J\"onzz",
-      "first_appearance": "Detective Comics #225",
-      "characters": "Martian Manhunter"
     },
     {
       "id": "dc-robin",
